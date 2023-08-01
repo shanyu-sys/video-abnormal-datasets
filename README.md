@@ -46,4 +46,3 @@
 	• Abnormal behavior 
 		○ Anomalous Behavior Data Set (8 image sequences)  Subway Entrance/Exit
 		○ https://vision.eecs.yorku.ca/research/anomalous-behaviour-data/
-![image](https://github.com/yushan111/video-abnormal-datasets/assets/12656939/abb59e16-78c7-4f0b-9087-df0d4e2ba839)
