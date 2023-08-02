@@ -67,4 +67,4 @@
 
 *  **Street Scene** [2020]
    * Street Scene consists of 46 training and 35 testing high resolution 1280×720 video sequences taken from a USB camera overlooking a scene of a two-lane street with bike lanes and pedestrian sidewalks during daytime. There are a total of 56,847 frames for training and 146,410 frames for testing, extracted from the original videos at 15 frames per second. The dataset contains a total of 205 naturally occurring anomalous events ranging from illegal activities such as jaywalking and illegal U-turns to simply those that do not occur in the training set such as pets being walked and a metermaid ticketing a car.
-   * [Project](https://www.merl.com/demos/video-anomaly-detection) [Paper](https://www.merl.com/publications/docs/TR2020-017.pdf) [Paper with Code](https://paperswithcode.com/dataset/street-scene) [Github](
+   * [Project](https://www.merl.com/demos/video-anomaly-detection) [Paper](https://www.merl.com/publications/docs/TR2020-017.pdf) [Paper with Code](https://paperswithcode.com/dataset/street-scene) [Github](https://github.com/DASH-Lab/VFP290K)
