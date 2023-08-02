@@ -1,4 +1,4 @@
-# Datasets contains abnormal events
+# Datasets for abnormal events
 
 ## Video datasets
 
