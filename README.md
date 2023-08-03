@@ -16,6 +16,10 @@
 * **CamNuvem**: A Robbery Dataset for Video Anomaly Detection [2022] 
   * This dataset focuses only on the robbery category, presenting a new weakly labelled dataset that contains 486 new real–world robbery surveillance videos acquired from public sources.
   * [Homepage](https://www.mdpi.com/1424-8220/22/24/10016) [Paper](https://www.mdpi.com/1424-8220/22/24/10016) [Dataset](https://drive.google.com/drive/folders/1LA5OYMXG8rmymJaZ-Moji6Ke6YNGuAyF?usp=sharing) [Paper with code](https://paperswithcode.com/dataset/camnuvem-dataset)
+* **NWPU Campus dataset** [CVPR 2023]
+  * NWPU Campus is a dataset proposed for (semi-supervised) video anomaly detection (VAD) and video anomaly anticipation (VAA). It is currently the largest and most complex dataset in its field with 43 scenes, 28 classes of anomalous events and 16 hours of videos. Especially, it contains scene-dependent anomalies, which means an event may be normal in one scene but abnormal in another.
+  * Anomalies: playing with water; cycling on footpath; wrong turn. etc
+  * [Project](https://campusvad.github.io./)
 * **UBI-Fights** [2020]
   * the UBI-Fights dataset is a unique new large-scale dataset of 80 hours of video fully annotated at the frame level. Consisting of 1000 videos, where 216 videos contain a fight event, and 784 are normal daily life situations.
   * [Project link](http://socia-lab.di.ubi.pt/EventDetection/) [Paper with code](https://paperswithcode.com/dataset/ubi-fights)
@@ -36,6 +40,7 @@
   *  [Project](http://www.cse.cuhk.edu.hk/leojia/projects/detectabnormal/dataset.html) [Paper with code](https://paperswithcode.com/dataset/chuk-avenue)
 * **ShanghaiTech** [CVPR 2016]
   *  [Project](https://github.com/desenzhou/ShanghaiTechDataset) [Paper with code](https://paperswithcode.com/dataset/shanghaitech)
+  *  **Link invalid**
 * **Abnormal behavior Data Set**
   * Anomalous Behavior Data Set (8 image sequences)  Subway Entrance/Exit
   * [Project](https://vision.eecs.yorku.ca/research/anomalous-behaviour-data/)
